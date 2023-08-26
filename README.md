@@ -1,1 +1,1 @@
-# global_al_hub_machine_learning_bootcamp
+# Global Al Hub Aygaz Machine Learning Bootcamp
