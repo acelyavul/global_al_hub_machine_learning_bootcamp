@@ -1,4 +1,4 @@
-# Global Al Hub - Aygaz achine Learning Bootcamp
+# Global Al Hub - Aygaz Machine Learning Bootcamp
 
 This project aims to analyse and predict medical expenses based on age, sex, bmi, children, smoker and region datas.
 
